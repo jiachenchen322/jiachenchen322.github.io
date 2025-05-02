@@ -52,23 +52,23 @@ classes: wide
 
 <div class="year-header">2023</div>
 <ul class="talks-list">
-  <li><strong>Talk:</strong> Structural Differences in Proteomics Networks, <em>15th GSI Research Symposium</em>, Boston.</li>
-  <li><strong>Poster:</strong> Inflammatory Biomarkers and Brain MRI, <em>GSA Annual Meeting</em>, Tampa.</li>
-  <li><strong>Poster:</strong> Structural Similarity Testing in Proteomics Networks, <em>American Society of Human Genetics</em>, Washington, DC.</li>
-  <li><strong>Poster:</strong> Gaussian Graphical Model Network Differences, <em>Program in Quantitative Genomics</em>, Boston.</li>
-  <li><strong>Poster:</strong> Differential Network Analysis Methods Comparison, <em>Joint Statistical Meetings</em>, Toronto.</li>
+  <li><strong>Talk:</strong> SA Statistical Testing Framework for Structural Difference and Similarity of Multiple Proteomics Networks based on Gaussian Graphical Models, <em>15th Annual Genome Science Institute Research Symposium</em>, Boston.</li>
+  <li><strong>Poster:</strong> Inflammatory Biomarkers Associated with Brain MRI Measures: Framingham Heart Study Offspring Cohort, <em>Gerontological Society of America Annual Scientific Meeting</em>, Tampa.</li>
+  <li><strong>Poster:</strong> A Statistical Testing Framework for Structural Difference and Similarity of Multiple Proteomics Networks based on Gaussian Graphical Models, <em>American Society of Human Genetics Annual Meeting</em>, Washington, DC.</li>
+  <li><strong>Poster:</strong> A Statistical Testing Framework for Difference and Similarity of Multiple Gaussian Graphical Models, <em>17th Annual Program in Quantitative Genomics</em>, Boston.</li>
+  <li><strong>Poster:</strong> Comparisons of Methods for Differential Network Analysis in Multiple Groups, <em>Joint Statistical Meetings</em>, Toronto.</li>
 </ul>
 
 <div class="year-header">2022</div>
 <ul class="talks-list">
-  <li><strong>Poster:</strong> Inflammatory Biomarkers and Cognitive Function, <em>GSA Annual Meeting</em>, Indianapolis.</li>
+  <li><strong>Poster:</strong> Inflammatory Biomarkers Associated with Cognitive Function and Dementia, <em>Gerontological Society of America Annual Scientific Meeting</em>, Indianapolis.</li>
 </ul>
 
 <div class="year-header">2020</div>
 <ul class="talks-list">
-  <li><strong>Poster:</strong> <em>swdpwr</em>: Power Calculations for SWCRTs, <em>ISCB41</em>, Kraków, Poland.</li>
-  <li><strong>Talk:</strong> <em>swdpwr</em>: Power Calculations for SWCRTs, <em>Yale CMIPS Seminar</em>.</li>
-  <li><strong>Talk:</strong> <em>swdpwr</em>: Power Calculations for SWCRTs, <em>Yale Department of Biostatistics</em>.</li>
+  <li><strong>Poster:</strong> <em>swdpwr</em>: swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials, <em>41st Annual Conference of the International Society for Clinical Biostatistics</em>, Kraków, Poland.</li>
+  <li><strong>Talk:</strong> <em>swdpwr</em>: swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials, <em>Yale CMIPS Seminar</em>, New Haven.</li>
+  <li><strong>Talk:</strong> <em>swdpwr</em>: swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials, <em>Yale Department of Biostatistics</em>, New Haven.</li>
 </ul>
 
 </div>
