@@ -35,19 +35,19 @@ classes: wide
 
 <div class="year-header">2024</div>
 <ul class="talks-list">
-  <li><strong>Talk:</strong> The Interplay Among Immunity, Inflammation, and Fried Frailty on Alzheimer's Disease, <em>GSA Annual Meeting</em>, Seattle.</li>
+  <li><strong>Talk:</strong> The Interplay Among Immunity, Inflammation, and Fried Frailty on Alzheimer's Disease, <em>Gerontological Society of America Annual Scientific Meeting</em>, Seattle.</li>
   <li><strong>Talk:</strong> Enhancing Alzheimer's Disease Risk Monitoring through Cross-Cohort Transfer Learning, <em>BUMC Statistical Genetics & Genomics Seminar</em>, Boston.</li>
   <li><strong>Poster:</strong> Inflammatory Proteomic Signatures of Physical Frailty for Alzheimer’s Disease and Related Dementias, <em>18th Annual Program in Quantitative Genomics</em>, Boston.</li>
   <li><strong>Talk:</strong> A Statistical Testing Framework for Difference and Similarity of Multiple Gaussian Graphical Models, <em>Joint Statistical Meetings</em>, Portland.</li>
-  <li><strong>Poster:</strong> Inflammatory Architecture of Frailty in ADRD, <em>Alzheimer’s Association International Conference</em>, Philadelphia.</li>
-  <li><strong>Poster:</strong> Circulating Immune Cell Phenotypes and Inflammatory Biomarkers, <em>Vermont Cardiovascular & Brain Health Symposium</em>, Burlington.</li>
-  <li><strong>Poster:</strong> Connecting Immune Cell Profiles and Inflammation, <em>Spring CHARGE Investigator Meeting</em>, Denver.</li>
-  <li><strong>Talk:</strong> Statistical Testing Framework for Proteomic Networks, <em>NESS 2024</em>, UConn.</li>
-  <li><strong>Talk:</strong> Structural Differences in Proteomic Networks, <em>STATGEN Conference</em>, Pittsburgh.</li>
-  <li><strong>Talk:</strong> Transfer Learning for High-Dimensional Regression on Network Data, <em>New England Student Research Symposium</em>, Boston.</li>
-  <li><strong>Poster:</strong> Circulating Immune Cell Phenotypes and Inflammation, <em>AHA EPI Lifestyle Scientific Sessions</em>, Chicago.</li>
-  <li><strong>Talk:</strong> Testing Framework for GGM Network Differences, <em>ENAR Spring Meeting</em>, Baltimore.</li>
-  <li><strong>Talk:</strong> Structural Similarity Testing of Omics Networks, <em>TOPMed Omics Working Group</em>, Boston.</li>
+  <li><strong>Poster:</strong> Inflammatory Architecture of Frailty in the Realm of Alzheimer's Disease and Related Dementias, <em>Alzheimer’s Association International Conference</em>, Philadelphia.</li>
+  <li><strong>Poster:</strong> Circulating Immune Cell Phenotypes Are Associated With Inflammatory Biomarkers in the Framingham Heart Study Offspring Cohort, <em>Fourth Annual Symposium for the Vermont Center for Cardiovascular and Brain Health</em>, Burlington.</li>
+  <li><strong>Poster:</strong> Connecting Immune Cell Profiles with Inflammatory Biomarkers: Implications for Cognitive Aging in the Framingham Heart Study Offspring Cohort, <em>Spring CHARGE Investigator Meeting</em>, Denver.</li>
+  <li><strong>Talk:</strong> A Statistical Testing Framework for Difference and Similarity of Multiple Gaussian Graphical Models with Application to Proteomic Networks, <em>37th New England Statistics Symposium</em>, University of Connecticut.</li>
+  <li><strong>Talk:</strong> A Statistical Testing Framework for Structural Difference and Similarity of Multiple Proteomics Networks based on Gaussian Graphical Models, <em>STATGEN: Conference on Statistics in Genomics and Genetics</em>, Pittsburgh.</li>
+  <li><strong>Talk:</strong> Transfer Learning for High-Dimensional Linear Regression on Network Data, <em>New England Student Research Symposium on Statistics and Data Science</em>, Boston.</li>
+  <li><strong>Poster:</strong> Circulating Immune Cell Phenotypes Are Associated With Inflammatory Biomarkers in the Framingham Heart Study Offspring Cohort, <em>American Heart Association EPI Lifestyle Scientific Sessions</em>, Chicago.</li>
+  <li><strong>Talk:</strong> A Statistical Testing Framework for Difference and Similarity of Multiple Gaussian Graphical Models, ENAR 2024 Spring Meeting, <em>ENAR Spring Meeting</em>, Baltimore.</li>
+  <li><strong>Talk:</strong> A Statistical Testing Framework for Structural Difference and Similarity of Multiple Proteomics Networks based on Gaussian Graphical Models, <em>TOPMed Omics Working Group</em>, Boston.</li>
 </ul>
 
 <div class="year-header">2023</div>
