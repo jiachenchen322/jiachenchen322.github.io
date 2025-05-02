@@ -6,13 +6,14 @@ collection: talks
 entries_layout: grid
 classes: wide
 ---
-
 <style>
-ul.talks-list {
-  list-style-type: none;
-  padding-left: 0;
+.page__content {
+  font-family: "Georgia", serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #2a2a2a;
 }
-ul.talks-list li {
+.page__content li {
   margin-bottom: 0.8em;
 }
 .year-header {
@@ -21,6 +22,7 @@ ul.talks-list li {
   margin-top: 2em;
 }
 </style>
+
 
 <div class="page__content">
 
