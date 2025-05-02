@@ -1,8 +1,8 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "More"
+permalink: /more/
 layout: single
 author_profile: true
 ---
 
-Add your teaching content here.
+Add more content here.
