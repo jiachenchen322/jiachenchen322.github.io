@@ -28,8 +28,8 @@ classes: wide
 
 <div class="year-header">2025</div>
 <ul class="talks-list">
-  <li><strong>Talk:</strong> Transfer Learning under High-Dimensional Graph Convolutional Regression Model for Node Classification, <em>Joint Statistical Meetings</em>, Nashville.</li>
-<li><strong>Talk:</strong> Inflammatory Proteomic Signatures of Physical Frailty for Alzheimer’s Disease and Related Dementias: Evidence from Cross-Cohort Transfer Learning, <em>Spring CHARGE Investigator Meeting</em>, Bethesda.<br><strong style="color:#444;">🏅 CHARGE Maryland 2025 Meeting Travel Award (Mar 2025)</strong></li>
+  <li><strong>Talk:</strong> Transfer Learning under High-Dimensional Graph Convolutional Regression Model for Node Classification, <em>Joint Statistical Meetings</em>, Nashville.<br><strong style="color:#444;">🏅 BUSPH Academic Travel Award</strong></li>
+<li><strong>Talk:</strong> Inflammatory Proteomic Signatures of Physical Frailty for Alzheimer’s Disease and Related Dementias: Evidence from Cross-Cohort Transfer Learning, <em>Spring CHARGE Investigator Meeting</em>, Bethesda.<br><strong style="color:#444;">🏅 CHARGE Maryland 2025 Meeting Travel Award</strong></li>
 
   <li><strong>Talk:</strong> Transfer Learning under High-Dimensional Graph Convolutional Regression Model for Node Classification, <em>ENAR Spring Meeting</em>, New Orleans.</li>
 </ul>
@@ -53,7 +53,7 @@ classes: wide
 
 <div class="year-header">2023</div>
 <ul class="talks-list">
-  <li><strong>Talk:</strong> SA Statistical Testing Framework for Structural Difference and Similarity of Multiple Proteomics Networks based on Gaussian Graphical Models, <em>15th Annual Genome Science Institute Research Symposium</em>, Boston.</li>
+  <li><strong>Talk:</strong> SA Statistical Testing Framework for Structural Difference and Similarity of Multiple Proteomics Networks based on Gaussian Graphical Models, <em>15th Annual Genome Science Institute Research Symposium</em>, Boston.<br><strong style="color:#444;">🏅 Honorarium Award Lightning Talk Second Place</strong></li>
   <li><strong>Poster:</strong> Inflammatory Biomarkers Associated with Brain MRI Measures: Framingham Heart Study Offspring Cohort, <em>Gerontological Society of America Annual Scientific Meeting</em>, Tampa.</li>
   <li><strong>Poster:</strong> A Statistical Testing Framework for Structural Difference and Similarity of Multiple Proteomics Networks based on Gaussian Graphical Models, <em>American Society of Human Genetics Annual Meeting</em>, Washington, DC.</li>
   <li><strong>Poster:</strong> A Statistical Testing Framework for Difference and Similarity of Multiple Gaussian Graphical Models, <em>17th Annual Program in Quantitative Genomics</em>, Boston.</li>
