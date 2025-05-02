@@ -44,45 +44,45 @@ _Responsibilities: Held office hours, graded homework and exams, and led occasio
 
 ## Service
 
-### Reviewer for Journals and Conferences:
+**Reviewer for Journals and Conferences**
 
-- American Society of Human Genetics (ASHG) Annual Meeting  
-- Gerontological Society of America (GSA) Annual Scientific Meeting  
-- Cardiovascular Diabetology  
-- Brain, Behavior, and Immunity - Integrative  
-- Computer Methods and Programs in Biomedicine Update  
-- European Journal of Integrative Medicine  
-- Experimental Gerontology  
-- International Journal of Cancer  
-- Discover Applied Sciences  
-- Clinical Epidemiology and Global Health  
-- BMC Immunology  
-- Journal of Gerontology: Medical Sciences  
-- Economic Analysis and Policy  
-- Briefings in Bioinformatics  
-- npj Dementia  
-- Scientific Reports  
-- BMC Public Health  
-- Archives of Public Health  
-- Lipids in Health and Disease  
-- Journal of Molecular Neuroscience  
-- Journal of Cardiothoracic Surgery  
-- Aging Clinical and Experimental Research  
-- Nature Medicine  
-- Journal of Healthcare Informatics Research  
-- BMC Geriatrics  
-- Medicine in Omics  
-- Journal of Gerontology: Psychological Sciences  
-- Journal of Frailty & Aging
+American Society of Human Genetics (ASHG) Annual Meeting  
+Gerontological Society of America (GSA) Annual Scientific Meeting  
+Cardiovascular Diabetology  
+Brain, Behavior, and Immunity - Integrative  
+Computer Methods and Programs in Biomedicine Update  
+European Journal of Integrative Medicine  
+Experimental Gerontology  
+International Journal of Cancer  
+Discover Applied Sciences  
+Clinical Epidemiology and Global Health  
+BMC Immunology  
+Journal of Gerontology: Medical Sciences  
+Economic Analysis and Policy  
+Briefings in Bioinformatics  
+npj Dementia  
+Scientific Reports  
+BMC Public Health  
+Archives of Public Health  
+Lipids in Health and Disease  
+Journal of Molecular Neuroscience  
+Journal of Cardiothoracic Surgery  
+Aging Clinical and Experimental Research  
+Nature Medicine  
+Journal of Healthcare Informatics Research  
+BMC Geriatrics  
+Medicine in Omics  
+Journal of Gerontology: Psychological Sciences  
+Journal of Frailty & Aging
 
-### Session Chair:
+**Session Chair**
 
-- Joint Statistical Meetings (JSM), 2025
+Joint Statistical Meetings (JSM), 2025
 
-### Leadership Roles:
+**Leadership Roles**
 
-- Emerging Women Leaders, Boston University School of Public Health, 2024  
-- Student Ambassador for Incoming PhD Students, Department of Biostatistics, Boston University, 2024  
-- Co-Chair, Biostatistics Student Association, Boston University, 2023–2024  
-- Member, L. Adrienne Cupples Award Committee, Boston University, 2022–2023  
-- Executive Member, Boston Capital Investment Club, 2022–2024
+Emerging Women Leaders, Boston University School of Public Health, 2024  
+Student Ambassador for Incoming PhD Students, Department of Biostatistics, Boston University, 2024  
+Co-Chair, Biostatistics Student Association, Boston University, 2023–2024  
+Member, L. Adrienne Cupples Award Committee, Boston University, 2022–2023  
+Executive Member, Boston Capital Investment Club, 2022–2024
