@@ -33,17 +33,17 @@ author_profile: true
 1.  
 **Chen, J.**, Murabito, J.M., Lunetta, K.L.  
 *Integrative Deep Learning for Multi-Omics and Longitudinal Phenomics: A Multi-Modal Graph-Recurrent Fusion Architecture.*  
-**In preparation**
+
 
 2.  
 Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.  
 *Sleep Disorder and Immune Cell Phenotypes in the Framingham Heart Study.*  
-**In preparation**
+
 
 3.  
 Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  
 *Association of Circulating Immune Cell Phenotypes and Peripheral Inflammatory Biomarkers with Depressive Symptoms in the Framingham Heart Study.*  
-**In preparation**
+
 
 ## Statistical Methodology
 
@@ -63,14 +63,15 @@ _Journal of the American Statistical Association_
 *ONDSA: a testing framework based on Gaussian graphical models for differential and similarity analysis of multiple omics networks.*  
 _Briefings in Bioinformatics_, 26(1), bbae610  
 [DOI](https://doi.org/10.1093/bib/bbae610)
+**2023–2024 BUSPH Biostatistics Student Paper Award**
 
-4.  
+5.  
 **Chen, J.**†, Bie, R.†, Qin, Y., Li, Y., and Ma, S. (2022)  
 *Lq‐based robust analytics on ultrahigh and high dimensional data.*  
 _Statistics in Medicine_, 41(26), 5220--5241  
 [DOI](https://doi.org/10.1002/sim.9515)
 
-5.  
+6.  
 **Chen, J.**, Zhou, X., Li, F., & Spiegelman, D. (2022)  
 *swdpwr: A SAS macro and an R package for power calculations in stepped wedge cluster randomized trials.*  
 _Computer Methods and Programs in Biomedicine_, 213, 106522  
