@@ -85,4 +85,4 @@ _Responsibilities: Held office hours, graded homework and exams, and led occasio
 - Student Ambassador for Incoming PhD Students, Department of Biostatistics, Boston University, 2024  
 - Co-Chair, Biostatistics Student Association, Boston University, 2023–2024  
 - Member, L. Adrienne Cupples Award Committee, Boston University, 2022–2023  
-- Executive Member, Boston Capital Investment Club, 2022–Present
+- Executive Member, Boston Capital Investment Club, 2022–2024
