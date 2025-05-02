@@ -12,5 +12,9 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Awards&Service&Teaching"
-    url: /blog/
+  - title: "More"
+    children:
+      - title: "Funding & Awards"
+        url: /award/
+      - title: "Teaching & Service"
+        url: /teach-service/
