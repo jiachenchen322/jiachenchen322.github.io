@@ -29,7 +29,8 @@ classes: wide
 <div class="year-header">2025</div>
 <ul class="talks-list">
   <li><strong>Talk:</strong> Transfer Learning under High-Dimensional Graph Convolutional Regression Model for Node Classification, <em>Joint Statistical Meetings</em>, Nashville.</li>
-  <li><strong>Talk:</strong> Inflammatory Proteomic Signatures of Physical Frailty for Alzheimer’s Disease and Related Dementias: Evidence from Cross-Cohort Transfer Learning, <em>Spring CHARGE Investigator Meeting</em>, Bethesda.</li>
+<li><strong>Talk:</strong> Inflammatory Proteomic Signatures of Physical Frailty for Alzheimer’s Disease and Related Dementias: Evidence from Cross-Cohort Transfer Learning, <em>Spring CHARGE Investigator Meeting</em>, Bethesda.<br><strong style="color:#444;">🏅 CHARGE Maryland 2025 Meeting Travel Award (Mar 2025)</strong></li>
+
   <li><strong>Talk:</strong> Transfer Learning under High-Dimensional Graph Convolutional Regression Model for Node Classification, <em>ENAR Spring Meeting</em>, New Orleans.</li>
 </ul>
 
