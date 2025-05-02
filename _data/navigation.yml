@@ -1,4 +1,3 @@
-# main links
 main:
   - title: "Home"
     url: /
@@ -14,7 +13,9 @@ main:
 
   - title: "More"
     children:
-      - title: "Funding & Awards"
-        url: /award/
       - title: "Teaching & Service"
-        url: /teach-service/
+        url: /teaching/
+      - title: "Funding & Awards"
+        url: /awards/
+      - title: "Blog"
+        url: /blog/
