@@ -5,18 +5,42 @@ layout: single
 author_profile: true
 ---
 
+<style>
+.page__content p {
+  margin-bottom: 0.6em;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.page__content em {
+  font-style: italic;
+  color: #333;
+}
+
+.page__content strong {
+  font-weight: 600;
+  color: #000;
+}
+
+.page__content a {
+  color: #007acc;
+  font-weight: 500;
+}
+
+.page__content {
+  font-family: "Georgia", serif;
+}
+</style>
+
 ## In Preparation
 
-1.  
-**Chen, J.**, Murabito, J.M., Lunetta, K.L.  
+1.  **Chen, J.**, Murabito, J.M., Lunetta, K.L.  
 *Integrative Deep Learning for Multi-Omics and Longitudinal Phenomics: A Multi-Modal Graph-Recurrent Fusion Architecture.*  
 
-2.  
-Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.  
+2.  Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.  
 *Sleep Disorder and Immune Cell Phenotypes in the Framingham Heart Study.*  
 
-3.  
-Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  
+3.  Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  
 *Association of Circulating Immune Cell Phenotypes and Peripheral Inflammatory Biomarkers with Depressive Symptoms in the Framingham Heart Study.*  
 
 ## Statistical Methodology
