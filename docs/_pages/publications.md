@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: posts
+layout: collection
 author_profile: true
 ---
 Sample document listing for the collection _publications.
