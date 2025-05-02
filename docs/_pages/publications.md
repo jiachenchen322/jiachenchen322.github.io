@@ -10,10 +10,10 @@ author_profile: true
 1. **Chen, J.**, Murabito, J.M., Lunetta, K.L.
 *Integrative Deep Learning for Multi-Omics and Longitudinal Phenomics: A Multi-Modal Graph-Recurrent Fusion Architecture.*
 
-2. Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.  
+3. Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.  
 *Sleep Disorder and Immune Cell Phenotypes in the Framingham Heart Study.*
 
-3. Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  
+4. Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  
 *Association of Circulating Immune Cell Phenotypes and Peripheral Inflammatory Biomarkers with Depressive Symptoms in the Framingham Heart Study.*
 
 ## Statistical Methodology
