@@ -1,9 +1,9 @@
 ---
 layout: collection
-title: "Recipes"
-collection: recipes
-permalink: /recipes/
+title: "Research"
+collection: research
+permalink: /research/
 author_profile: false
 ---
 
-Sample document listing for the collection `_recipes`.
+Sample document listing for the collection `_research`.
