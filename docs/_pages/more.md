@@ -35,7 +35,7 @@ author_profile: true
 ## Teaching Experience
 
 **Teaching Fellow**  
-_Linear Models (CAS MA575 / SPH BS755) Fall 2023_  
+_Linear Models (CAS MA575 / SPH BS755), Fall 2023_  
 Departments of Statistics and Biostatistics, Boston University  
 _Instructors: Drs. Julio Castrillon and Shariq Mohammed_  
 _Responsibilities: Held office hours, graded homework and exams, and led occasional lectures_
