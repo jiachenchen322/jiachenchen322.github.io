@@ -28,7 +28,7 @@ author_profile: true
   *Role: PI | Feb 2025 – Jan 2026*
 
 - [NIH/NIA F99/K00](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-23-016.html) — Transition to Aging Research for Predoctoral Students  
-  *Role: PI | Impact Score: 20*
+  *Role: PI | Impact Score: 20* | Pending Council Meeting Decision
 
 ---
 
