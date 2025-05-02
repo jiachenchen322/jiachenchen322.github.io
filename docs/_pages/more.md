@@ -5,10 +5,27 @@ layout: single
 author_profile: true
 ---
 
+<style>
+.page__content p {
+  font-family: "Georgia", serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #2a2a2a;
+}
+.page__content em {
+  color: #444;
+  font-style: italic;
+}
+.page__content strong {
+  color: #111;
+  font-weight: 600;
+}
+</style>
+
 ## Research Funding
 
 - [Center for Health Data Science (CHDS) Pilot Award](https://sites.bu.edu/healthdatascience/), $5,000  
-  *Feb 2025 – Jan 2026*
+  *Role: PI | Feb 2025 – Jan 2026*
 
 - [NIH/NIA F99/K00](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-23-016.html) — Transition to Aging Research for Predoctoral Students  
   *Role: PI | Impact Score: 20*
@@ -18,10 +35,13 @@ author_profile: true
 ## Teaching Experience
 
 **Teaching Fellow**  
-*Responsibilities: Held office hours, graded homework and exams, and led occasional lectures*  
-- Linear Models (CAS MA575 / SPH BS755)  
-  Departments of Statistics and Biostatistics, Boston University  
-  *(Instructors: Drs. Julio Castrillon and Shariq Mohammed, Fall 2023)*
+_Linear Models (CAS MA575 / SPH BS755)_  
+Departments of Statistics and Biostatistics, Boston University  
+_Instructors: Drs. Julio Castrillon and Shariq Mohammed_  
+**Fall 2023**  
+_Responsibilities: Held office hours, graded homework and exams, and led occasional lectures_
+
+---
 
 ## Service
 
@@ -67,5 +87,3 @@ author_profile: true
 - Co-Chair, Biostatistics Student Association, Boston University, 2023–2024  
 - Member, L. Adrienne Cupples Award Committee, Boston University, 2022–2023  
 - Executive Member, Boston Capital Investment Club, 2022–Present
-
----
