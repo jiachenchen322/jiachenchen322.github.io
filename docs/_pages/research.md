@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Research"
-collection: research
+collection: posts
 permalink: /research/
 author_profile: true
 ---
