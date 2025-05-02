@@ -35,17 +35,16 @@ author_profile: true
 ## Teaching Experience
 
 **Teaching Fellow**  
-_Linear Models (CAS MA575 / SPH BS755)_  
+_Linear Models (CAS MA575 / SPH BS755) Fall 2023_  
 Departments of Statistics and Biostatistics, Boston University  
 _Instructors: Drs. Julio Castrillon and Shariq Mohammed_  
-**Fall 2023**  
 _Responsibilities: Held office hours, graded homework and exams, and led occasional lectures_
 
 ---
 
 ## Service
 
-**Reviewer for Journals and Conferences:**
+### Reviewer for Journals and Conferences:
 
 - American Society of Human Genetics (ASHG) Annual Meeting  
 - Gerontological Society of America (GSA) Annual Scientific Meeting  
@@ -76,11 +75,11 @@ _Responsibilities: Held office hours, graded homework and exams, and led occasio
 - Journal of Gerontology: Psychological Sciences  
 - Journal of Frailty & Aging
 
-**Session Chair:**
+### Session Chair:
 
 - Joint Statistical Meetings (JSM), 2025
 
-**Leadership Roles:**
+### Leadership Roles:
 
 - Emerging Women Leaders, Boston University School of Public Health, 2024  
 - Student Ambassador for Incoming PhD Students, Department of Biostatistics, Boston University, 2024  
