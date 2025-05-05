@@ -7,6 +7,12 @@ author_profile: true
 
 ## Featured Work
 
+### Inflammation, Immunosenescence, and Cognitive Aging
+This research series investigates how peripheral inflammation and immunosenescence contribute to cognitive impairment and dementia, using data from the Framingham Heart Study. Through a combination of inflammatory protein profiling, immune cell phenotyping, and brain imaging, these studies have advanced our understanding of systemic aging and brain health.  
+👉 [Explore Project](/inflammation-cognition/)
+
+---
+
 ### ONDSA: A Testing Framework for Omics Network Structures Comparison
 A novel statistical testing framework for identifying differential and similar omics network structures across multiple groups based on sparse Gaussian Graphical Models.  
 👉 [Read more](https://github.com/jiachenchen322/ONDSA)
