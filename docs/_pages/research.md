@@ -7,6 +7,12 @@ author_profile: true
 
 ## Featured Work
 
+### Frailty and Cognitive Aging: Shared Mechanisms
+
+This research investigates the interconnected biological mechanisms driving both physical frailty and cognitive decline, including chronic inflammation, immune dysfunction, and metabolic dysregulation. Using AI/ML tools and multi-omics integration, we aim to identify mechanisms and pathways that explain the shared underpinnings between frailty phenotypes and neurodegenerative processes.
+
+---
+
 ### Inflammation, Immunosenescence, and Cognitive Aging
 This research series investigates how peripheral inflammation and immunosenescence contribute to cognitive impairment and dementia, using data from the Framingham Heart Study. Through a combination of inflammatory protein profiling, immune cell phenotyping, and brain imaging, these studies have advanced our understanding of systemic aging and brain health.  
 👉 [Explore Project](/inflammation-cognition/)
