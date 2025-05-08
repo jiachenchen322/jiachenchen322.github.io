@@ -32,6 +32,26 @@ author_profile: true
 
 ---
 
+## Selected Awards and Honors
+
+- ASA Biopharmaceutical Section Scholarship Award  
+  _May 2025_  
+- SPH Academic Travel Award  
+  _April 2025_  
+- CHARGE Maryland 2025 Meeting Registration Award  
+  _Mar 2025_  
+- Elected to join Mu Sigma Rho: the National Honorary Society for Statistics  
+  _Mar 2024_  
+- 2023–2024 Biostatistics Student Paper Award at Boston University
+  _Feb 2024_  
+- 15th Annual GSI Research Symposium Honorarium Award – Lightning Talk Second Place  
+  _Nov 2023_  
+- First Place in Statistics and Biostatistics PhD Theory Qualifier Exam  
+  _Sep 2022_  
+
+---
+
+
 ## Teaching Experience
 
 **Teaching Fellow**  
