@@ -92,8 +92,8 @@ Journal of Healthcare Informatics Research
 BMC Geriatrics  
 Medicine in Omics  
 Journal of Gerontology: Psychological Sciences  
-Journal of Frailty & Aging
-The Gerontologist
+Journal of Frailty & Aging  
+The Gerontologist  
 
 **Session Chair**
 
