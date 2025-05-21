@@ -54,7 +54,7 @@ _Journal of the American Statistical Association_
 **Under Review**. [arXiv](https://arxiv.org/abs/2504.19979)
 
 2.  
-**Chen, J.**, Huang, D., Wang L., Lunetta, K.L., Mukherjee D., Cheng H. (2025+)  
+**Chen, J.**, Huang, D., Wang L., Lunetta, K.L., Murabito, J.M., Peloso G., Mukherjee D., Cheng H. (2025+)  
 *Transfer Learning Under High-Dimensional Graph Convolutional Regression Model for Node Classification.*  
 **Under Review**. [arXiv](https://arxiv.org/abs/2405.16672)
 
