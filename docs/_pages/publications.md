@@ -56,7 +56,7 @@ _Journal of the American Statistical Association_
 **Chen, J.**, Murabito, J.M., Lunetta, K.L. (2025)  
 *ONDSA: a testing framework based on Gaussian graphical models for differential and similarity analysis of multiple omics networks.*  
 _Briefings in Bioinformatics_, 26(1), bbae610  
-[DOI](https://doi.org/10.1093/bib/bbae610)
+[DOI](https://doi.org/10.1093/bib/bbae610)  
 **2023–2024 BUSPH Biostatistics Student Paper Award**
 
 4.  
@@ -74,7 +74,7 @@ _Computer Methods and Programs in Biomedicine_, 213, 106522
 ## Applications in Cognitive Aging and Genetic Epidemiology
 1.  
 Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  (2025+)  
-*Association of Circulating Immune Cell Phenotypes and Peripheral Inflammatory Biomarkers with Depressive Symptoms in the Framingham Heart Study.*
+*Association of Circulating Immune Cell Phenotypes and Peripheral Inflammatory Biomarkers with Depressive Symptoms in the Framingham Heart Study.*  
 _Psychoneuroendocrinology_  
 **Under Review**
 
