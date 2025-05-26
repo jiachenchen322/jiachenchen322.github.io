@@ -43,29 +43,30 @@ Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.
 ## Statistical Methodology 
 1.  
 **Chen, J.**, Huang, D., Wang L., Lunetta, K.L., Murabito, J.M., Peloso G., Mukherjee D., Cheng H. (2025+)  
-*Transfer Learning Under High-Dimensional Graph Convolutional Regression Model for Node Classification.*  
+*Transfer Learning Under High-Dimensional Graph Convolutional Regression Model for Node Classification.*
+_IEEE Transactions on Knowledge and Data Engineering_
 **Under Review**. [arXiv](https://arxiv.org/abs/2405.16672)
 
-2.  
+3.  
 Wang L.†, **Chen, J.**†, Lunetta, K.L., Huang, D., Cheng H., Mukherjee D. (2025+)  
 *Transfer Learning Under High-Dimensional Network Convolutional Regression Model.*  
 _Journal of the American Statistical Association_  
 **Under Review**. [arXiv](https://arxiv.org/abs/2504.19979)
 
-3.  
+4.  
 **Chen, J.**, Murabito, J.M., Lunetta, K.L. (2025)  
 *ONDSA: a testing framework based on Gaussian graphical models for differential and similarity analysis of multiple omics networks.*  
 _Briefings in Bioinformatics_, 26(1), bbae610  
 [DOI](https://doi.org/10.1093/bib/bbae610)  
 **2023–2024 BUSPH Biostatistics Student Paper Award**
 
-4.  
+5.  
 **Chen, J.**†, Bie, R.†, Qin, Y., Li, Y., and Ma, S. (2022)  
 *Lq‐based robust analytics on ultrahigh and high dimensional data.*  
 _Statistics in Medicine_, 41(26), 5220--5241  
 [DOI](https://doi.org/10.1002/sim.9515)
 
-5.  
+6.  
 **Chen, J.**, Zhou, X., Li, F., & Spiegelman, D. (2022)  
 *swdpwr: A SAS macro and an R package for power calculations in stepped wedge cluster randomized trials.*  
 _Computer Methods and Programs in Biomedicine_, 213, 106522  
