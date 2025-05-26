@@ -44,7 +44,7 @@ Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.
 1.  
 **Chen, J.**, Huang, D., Wang L., Lunetta, K.L., Murabito, J.M., Peloso G., Mukherjee D., Cheng H. (2025+)  
 *Transfer Learning Under High-Dimensional Graph Convolutional Regression Model for Node Classification.*
-_IEEE Transactions on Knowledge and Data Engineering_
+_IEEE Transactions on Knowledge and Data Engineering_   
 **Under Review**. [arXiv](https://arxiv.org/abs/2405.16672)
 
 3.  
