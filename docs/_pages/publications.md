@@ -106,8 +106,8 @@ _Nature_
 6.  
 Fang, Y., **Chen, J.**, Mez, J., Satizabal, C.L.,  Alosco, M.L.,  Qiu, W.Q.,  Doyle, M.F., Murabito, J.M., Lunetta, K.L. (2025+)  
 *Modeling heterogeneity in cognitive trajectories in the Framingham Heart Study.*  
-_Frontiers in Aging_  
-**Under Review**
+_Frontiers in Aging Neuroscience_    
+**Accepted**
 
 7.  
 Cao Y., Lunetta, K.L., **Chen, J.**, Ragab, A.A.,  Mez, Satizabal, C.L., Alosco, M.L., Fang, Y., Qiu, W.Q., Murabito, J.M., Doyle, M.F. (2025)  
