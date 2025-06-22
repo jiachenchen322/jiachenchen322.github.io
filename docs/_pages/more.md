@@ -95,6 +95,8 @@ Journal of Gerontology: Psychological Sciences
 Journal of Frailty & Aging  
 The Gerontologist  
 BMC Psychology    
+Immunity & Ageing    
+
 
 **Session Chair**
 
