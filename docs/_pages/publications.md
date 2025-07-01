@@ -104,7 +104,7 @@ _Alcohol: Clinical and Experimental Research_
 **Accepted**
 
 6.  
-Fang, Y., **Chen, J.**, Mez, J., Satizabal, C.L.,  Alosco, M.L.,  Qiu, W.Q.,  Doyle, M.F., Murabito, J.M., Lunetta, K.L. (2025+)  
+Fang, Y., **Chen, J.**, Mez, J., Satizabal, C.L.,  Alosco, M.L.,  Qiu, W.Q.,  Doyle, M.F., Murabito, J.M., Lunetta, K.L. (2025)  
 *Modeling heterogeneity in cognitive trajectories in the Framingham Heart Study.*  
 _Frontiers in Aging Neuroscience_    
 [DOI](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2025.1471154/full)
