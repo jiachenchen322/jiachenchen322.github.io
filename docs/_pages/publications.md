@@ -86,22 +86,22 @@ _Geroscience_
 **Under Review**
 
 3.  
-Ragab, A.A., Doyle, M.F., **Chen, J.**, Lunetta, K.L., Murabito, J.M. (2025+)  
-*Alcohol consumption and immune cell profiles: Insights from the Framingham Heart Study.*  
-_Alcohol: Clinical and Experimental Research_  
-**Under Review**
-
-4.  
 **Chen, J.**, Doyle, M.F., Iyer, S., Cao Y., Ragab, A.A., Murabito, J.M., Lunetta, K.L. (2025+)  
 *Circulating immune cell phenotypes are associated with inflammatory biomarkers in dementia-free participants: Framingham Heart Study Offspring cohort.*  
 _The Journal of Inflammation_  
 **Under Review**
 
-5.  
+4.  
 Bernatz, S., Prudente, V., Pai, S.,..., **Chen, J.**,..., Aerts, J.H. (2025+)  
 *Thymic Health Consequences in Adults.*  
 _Nature_  
 **Under Review**
+
+5.  
+Ragab, A.A., Doyle, M.F., **Chen, J.**, Lunetta, K.L., Murabito, J.M. (2025)  
+*Alcohol consumption and immune cell profiles: Insights from the Framingham Heart Study.*  
+_Alcohol: Clinical and Experimental Research_  
+**Accepted**
 
 6.  
 Fang, Y., **Chen, J.**, Mez, J., Satizabal, C.L.,  Alosco, M.L.,  Qiu, W.Q.,  Doyle, M.F., Murabito, J.M., Lunetta, K.L. (2025+)  
