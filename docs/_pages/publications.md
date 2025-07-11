@@ -44,7 +44,7 @@ Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.
 1.  
 **Chen, J.**, Huang, D., Wang L., Lunetta, K.L., Murabito, J.M., Peloso G., Mukherjee D., Cheng H. (2025+)  
 *Transfer Learning Under High-Dimensional Graph Convolutional Regression Model for Node Classification.*   
-_IEEE Transactions on Knowledge and Data Engineering_   
+_IEEE Transactions on Neural Networks and Learning Systems_   
 **Under Review**. [arXiv](https://arxiv.org/abs/2405.16672)
 
 3.  
@@ -125,27 +125,29 @@ _Alzheimer's & Dementia: The Journal of the Alzheimer's Association_, 1-14
 Kang, M., Li, C., Mahajan, A., Spat-Lemus, J., Durape, S., **Chen, J.**, et al. (2024)  
 *Subjective Cognitive Decline-Plus: Longitudinal assessment and risk for cognitive impairment.*  
 _JAMA Psychiatry_  
-[DOI](https://doi.org/10.1001/jamapsychiatry.2024.1678)
+[DOI](https://doi.org/10.1001/jamapsychiatry.2024.1678)  
+**2024 Publication of the Year Award by the Alzheimer's Association ISTAART and the SCD PIA**  
 
-10.  
+11.  
 Ragab, A. A., Doyle, M. F., **Chen, J.**, Fang, Y., Lunetta, K. L., Murabito, J. M. (2024)  
 *Immune cell phenotypes and mortality in the Framingham Heart Study.*  
 _Immunity & Ageing_, 21(1), 37  
-**Editor's Pick**. [DOI](https://doi.org/10.1186/s12979-024-00384-y)
+[DOI](https://doi.org/10.1186/s12979-024-00384-y)
+**Editor's Pick**  
 
-11.  
+13.  
 **Chen, J.**, Doyle, M.F., Fang, Y., Mez, J., Crane, P.K., Scollard, P., Satizabal, C.L., Alosco, M.L., Qiu, W.Q., Murabito, J.M., Lunetta, K.L. (2023)  
 *Peripheral inflammatory biomarkers are associated with cognitive function and dementia: Framingham Heart Study Offspring cohort.*  
 _Aging Cell_, 22(10), e13955  
 [DOI](https://doi.org/10.1111/acel.13955)
 
-12.  
+14.  
 Fang, Y., Doyle, M.F., **Chen, J.**, Mez, J., Satizabal, C.L., Alosco, M.L., Qiu, W.Q., Lunetta, K.L. and Murabito, J.M. (2023)  
 *Circulating immune cell phenotypes are associated with age, sex, CMV, and smoking status in the Framingham Heart Study offspring participants.*  
 _Aging (Albany NY)_, 15(10), 3939  
 [DOI](https://doi.org/10.18632/aging.204874)
 
-13.  
+15.  
 Fang, Y., Doyle, M.F., **Chen J.**, Alosco, M.L., Mez, J., Satizabal, C.L., Qiu, W., Murabito, J.M., Lunetta, K.L. (2022)  
 *Association between inflammatory biomarkers and cognitive aging.*  
 _PLOS One_, 17(9), e0274350  
