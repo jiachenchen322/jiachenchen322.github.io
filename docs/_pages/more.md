@@ -33,6 +33,7 @@ author_profile: true
 ---
 
 ## Selected Awards and Honors
+_Finalist of ARISE (Aging Research – Innovations in Statistical Exploration) Program, July 2025_  
 
 _ASA Biopharmaceutical Section Scholarship Award, May 2025_ 
 
