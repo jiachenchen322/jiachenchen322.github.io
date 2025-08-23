@@ -110,7 +110,7 @@ _Frontiers in Aging Neuroscience_
 [DOI](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2025.1471154/full)
 
 7.  
-Cao Y., Lunetta, K.L., **Chen, J.**, Ragab, A.A.,  Mez, Satizabal, C.L., Alosco, M.L., Fang, Y., Qiu, W.Q., Murabito, J.M., Doyle, M.F. (2025)  
+Cao Y., Salvati L.R., **Chen, J.**, Ragab, A.A., Mez, J., Satizabal, C.L., Alosco, M.L., Fang, Y., Qiu, W.Q., Lunetta, K.L., Murabito, J.M., Doyle, M.F. (2025)  
 *The Association of Circulating Immune Cells with Cognitive Function, Brain Imaging, and Incident all-cause and Alzheimer’s Dementia: The Framingham Offspring Study.*  
 _Journal of Gerontology: Biological Sciences_, glaf067  
 [DOI](https://doi.org/10.1093/gerona/glaf067)
