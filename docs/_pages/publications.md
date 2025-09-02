@@ -29,13 +29,16 @@ author_profile: true
 </style>
 
 ## In Preparation
-
 1.  
+**Chen, J.**, Iyer, S., Peloso G., Murabito, J.M., Lunetta, K.L.  
+*Proteomic Signature of Frailty Pace Reflects Biological Aging and Predicts Disease and Mortality.*  
+
+2.  
 **Chen, J.**, Murabito, J.M., Lunetta, K.L.  
 *Integrative Deep Learning for Multi-Omics and Longitudinal Phenomics: A Multi-Modal Graph-Recurrent Fusion Architecture.*  
 
 
-2.  
+3.  
 Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.  
 *Sleep Disorder and Immune Cell Phenotypes in the Framingham Heart Study.*  
 
@@ -80,22 +83,22 @@ _Psychoneuroendocrinology_
 Under Review
 
 2.  
-Rotti, L., Murabito, J.M., **Chen, J.**, Cao Y., Ragab, A.A., Liu, C., Wang, M., Doyle, M.F., Lunetta, K.L. (2025+)  
-*Immune Cells and Inflammatory Proteins are Associated with Future DNA Methylation Biological Aging Measures in the Framingham Heart Study Offspring Cohort.*  
-_Geroscience_  
-Under Review
-
-3.  
 **Chen, J.**, Doyle, M.F., Iyer, S., Cao Y., Ragab, A.A., Murabito, J.M., Lunetta, K.L. (2025+)  
 *Circulating immune cell phenotypes are associated with inflammatory biomarkers in dementia-free participants: Framingham Heart Study Offspring cohort.*  
 _The Journal of Inflammation_  
 Under Review
 
-4.  
+3.  
 Bernatz, S., Prudente, V., Pai, S.,..., **Chen, J.**,..., Aerts, J.H. (2025+)  
 *Thymic Health Consequences in Adults.*  
 _Nature_  
 Under Review
+
+4.  
+Rotti, L., Murabito, J.M., **Chen, J.**, Cao Y., Ragab, A.A., Liu, C., Wang, M., Doyle, M.F., Lunetta, K.L. (2025+)  
+*Immune Cells and Inflammatory Proteins are Associated with Future DNA Methylation Biological Aging Measures in the Framingham Heart Study Offspring Cohort.*  
+_Geroscience_  
+Accepted
 
 5.  
 Ragab, A.A., Doyle, M.F., **Chen, J.**, Lunetta, K.L., Murabito, J.M. (2025)  
