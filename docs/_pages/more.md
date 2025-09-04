@@ -24,11 +24,11 @@ author_profile: true
 
 ## Research Funding
 
+- [NIH/NIA F99/K00] — Transition to Aging Research for Predoctoral Students  
+  *Role: PI | Awarded in September 2025*
+
 - [Center for Health Data Science (CHDS) Pilot Award](https://sites.bu.edu/healthdatascience/), $5,000  
   *Role: PI | Feb 2025 – Jan 2026*
-
-- [NIH/NIA F99/K00](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-23-016.html) — Transition to Aging Research for Predoctoral Students  
-  *Role: PI | Impact Score: 20* | Pending Council Meeting Decision
 
 ---
 
