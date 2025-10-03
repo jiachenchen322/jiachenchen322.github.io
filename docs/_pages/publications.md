@@ -85,7 +85,7 @@ Under Review
 2.  
 **Chen, J.**, Doyle, M.F., Iyer, S., Cao Y., Ragab, A.A., Murabito, J.M., Lunetta, K.L. (2025+)  
 *Circulating immune cell phenotypes are associated with inflammatory biomarkers in dementia-free participants: Framingham Heart Study Offspring cohort.*  
-_The Journal of Inflammation_  
+_Scientific Reports_  
 Under Review
 
 3.  
@@ -98,59 +98,59 @@ Under Review
 Rotti, L., Murabito, J.M., **Chen, J.**, Cao Y., Ragab, A.A., Liu, C., Wang, M., Doyle, M.F., Lunetta, K.L. (2025+)  
 *Immune Cells and Inflammatory Proteins are Associated with Future DNA Methylation Biological Aging Measures in the Framingham Heart Study Offspring Cohort.*  
 _Geroscience_  
-Accepted
+[DOI](https://doi.org/10.1007/s11357-025-01883-4)
 
 5.  
 Ragab, A.A., Doyle, M.F., **Chen, J.**, Lunetta, K.L., Murabito, J.M. (2025)  
 *Alcohol consumption and immune cell profiles: Insights from the Framingham Heart Study.*  
 _Alcohol: Clinical and Experimental Research_  
-Accepted
+[DOI](https://doi.org/10.1111/acer.70122)
 
-6.  
+7.  
 Fang, Y., **Chen, J.**, Mez, J., Satizabal, C.L.,  Alosco, M.L.,  Qiu, W.Q.,  Doyle, M.F., Murabito, J.M., Lunetta, K.L. (2025)  
 *Modeling heterogeneity in cognitive trajectories in the Framingham Heart Study.*  
 _Frontiers in Aging Neuroscience_    
 [DOI](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2025.1471154/full)
 
-7.  
+8.  
 Cao Y., Salvati L.R., **Chen, J.**, Ragab, A.A., Mez, J., Satizabal, C.L., Alosco, M.L., Fang, Y., Qiu, W.Q., Lunetta, K.L., Murabito, J.M., Doyle, M.F. (2025)  
 *The Association of Circulating Immune Cells with Cognitive Function, Brain Imaging, and Incident all-cause and Alzheimer’s Dementia: The Framingham Offspring Study.*  
 _Journal of Gerontology: Biological Sciences_, glaf067  
 [DOI](https://doi.org/10.1093/gerona/glaf067)
 
-8.  
+9.  
 **Chen, J.**†, Ragab, A.A.†, Doyle, M.F., Alosco, M.L., Fang, Y., Mez, J., Satizabal, C.L., Qiu, W.Q., Murabito, J.M., Lunetta, K.L. (2024)  
 *Inflammatory protein associations with brain MRI measures: Framingham Offspring Cohort.*  
 _Alzheimer's & Dementia: The Journal of the Alzheimer's Association_, 1-14  
 [DOI](https://doi.org/10.1002/alz.13896)
 
-9.  
+10.  
 Kang, M., Li, C., Mahajan, A., Spat-Lemus, J., Durape, S., **Chen, J.**, et al. (2024)  
 *Subjective Cognitive Decline-Plus: Longitudinal assessment and risk for cognitive impairment.*  
 _JAMA Psychiatry_  
 [DOI](https://doi.org/10.1001/jamapsychiatry.2024.1678)  
 **2024 Publication of the Year Award by the Alzheimer's Association ISTAART and the SCD PIA**  
 
-10.  
+11.  
 Ragab, A. A., Doyle, M. F., **Chen, J.**, Fang, Y., Lunetta, K. L., Murabito, J. M. (2024)  
 *Immune cell phenotypes and mortality in the Framingham Heart Study.*  
 _Immunity & Ageing_, 21(1), 37  
 [DOI](https://doi.org/10.1186/s12979-024-00384-y)   
 **Editor's Pick**  
 
-11.  
+12.  
 **Chen, J.**, Doyle, M.F., Fang, Y., Mez, J., Crane, P.K., Scollard, P., Satizabal, C.L., Alosco, M.L., Qiu, W.Q., Murabito, J.M., Lunetta, K.L. (2023)  
 *Peripheral inflammatory biomarkers are associated with cognitive function and dementia: Framingham Heart Study Offspring cohort.*  
 _Aging Cell_, 22(10), e13955  
 [DOI](https://doi.org/10.1111/acel.13955)
 
-12.  
+13.  
 Fang, Y., Doyle, M.F., **Chen, J.**, Mez, J., Satizabal, C.L., Alosco, M.L., Qiu, W.Q., Lunetta, K.L. and Murabito, J.M. (2023)  
 *Circulating immune cell phenotypes are associated with age, sex, CMV, and smoking status in the Framingham Heart Study offspring participants.*  
 _Aging (Albany NY)_, 15(10), 3939  
 [DOI](https://doi.org/10.18632/aging.204874)
 
-13.  
+14.  
 Fang, Y., Doyle, M.F., **Chen J.**, Alosco, M.L., Mez, J., Satizabal, C.L., Qiu, W., Murabito, J.M., Lunetta, K.L. (2022)  
 *Association between inflammatory biomarkers and cognitive aging.*  
 _PLOS One_, 17(9), e0274350  
