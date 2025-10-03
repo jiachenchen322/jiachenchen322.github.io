@@ -33,13 +33,15 @@ author_profile: true
 ---
 
 ## Selected Awards and Honors
+_CHARGE North Carolina Meeting Early Career Investigator Travel Award, October 2025_  
+
 _Finalist of ARISE (Aging Research – Innovations in Statistical Exploration) Program, July 2025_  
 
 _ASA Biopharmaceutical Section Scholarship Award, May 2025_ 
 
 _SPH Academic Travel Award, April 2025_ 
 
-_CHARGE Maryland 2025 Meeting Registration Award, Mar 2025_  
+_CHARGE Maryland Meeting Registration Award, Mar 2025_  
 
 _Elected to join Mu Sigma Rho: the National Honorary Society for Statistics, Mar 2024_  
 
