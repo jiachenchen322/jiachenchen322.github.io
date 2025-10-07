@@ -29,6 +29,8 @@ classes: wide
 <div class="year-header">2025</div>
 <ul class="talks-list">
   <li><strong>Talk:</strong> Proteomic Signature of Frailty Pace Reflects Biological Aging and Predicts Disease and Mortality,  <em>CHARGE Aging and Longevity Working Group Meeting</em>, Boston.</li>
+  <li><strong>Talk:</strong> Proteomic Signature of Frailty Pace Reflects Biological Aging and Predicts Disease and Mortality,  <em>CHARGE North Carolina Meeting</em>, Durham.</li><br><strong style="color:#444;">🏅 CHARGE North Carolina Meeting Early Career Investigator Travel Award</strong></li>
+   <li><strong>Poster:</strong> Proteomic Signature of Frailty Pace Reflects Biological Aging and Predicts Disease and Mortality,  <em>Gerontological Society of America (GSA) Annual Scientific Meeting</em>, Boston.</li>
   <li><strong>Talk:</strong> Proteomic Signature of Frailty Pace Reflects Biological Aging and Predicts Disease and Mortality,  <em>BUMC Statistical Genetics & Genomics Seminar</em>, Boston.</li>
    <li><strong>Talk:</strong> Proteomic Signature of Frailty Pace Reflects Biological Aging and Predicts Disease and Mortality,  <em>ARISE – Fall 2025 Webinar Series</em>.<br><strong style="color:#444;">🏅 Finalist of ARISE (Aging Research – Innovations in Statistical Exploration) Program</strong></li>
   <li><strong>Talk:</strong> Transfer Learning under High-Dimensional Graph Convolutional Regression Model for Node Classification, <em>Joint Statistical Meetings</em>, Nashville.<br><strong style="color:#444;">🏅 BUSPH Academic Travel Award</strong></li>
