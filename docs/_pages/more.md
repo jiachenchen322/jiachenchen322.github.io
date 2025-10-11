@@ -102,7 +102,8 @@ Immunity & Ageing
 European Journal of Medical Research     
 Clinical Epigenetics     
 npj Aging       
-Circulation: Genomic and Precision Medicine   
+Circulation: Genomic and Precision Medicine 
+The Journal of Aging Research & Lifestyle 
 
 **Session Chair**
 
