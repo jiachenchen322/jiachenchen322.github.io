@@ -104,6 +104,8 @@ Clinical Epigenetics
 npj Aging       
 Circulation: Genomic and Precision Medicine     
 The Journal of Aging Research & Lifestyle      
+IEEE Transactions on Neural Networks and Learning Systems     
+
 
 **Session Chair**
 
