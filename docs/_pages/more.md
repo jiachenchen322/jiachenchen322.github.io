@@ -106,7 +106,8 @@ Circulation: Genomic and Precision Medicine
 The Journal of Aging Research & Lifestyle      
 IEEE Transactions on Neural Networks and Learning Systems     
 Alzheimer's Research & Therapy     
-
+npj Cardiovascular Health     
+ 
 
 **Session Chair**
 
