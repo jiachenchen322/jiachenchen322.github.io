@@ -77,9 +77,9 @@ _Computer Methods and Programs in Biomedicine_, 213, 106522
 
 ## Applications in Cognitive Aging and Genetic Epidemiology
 1.  
-Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  (2025+)  
-*Association of Circulating Immune Cell Phenotypes and Peripheral Inflammatory Biomarkers with Depressive Symptoms in the Framingham Heart Study.*  
-_Psychoneuroendocrinology_  
+Adly, A., Bernatz, S., Bontempi, D., ..., **Chen, J.**,..., Aerts, J.H. (2025+)  
+*Deep Learning-based Lung Health Score from Computed Tomography in Adults.*  
+_npj Digital Medicine_  
 Under Review
 
 2.  
@@ -95,12 +95,18 @@ _Nature_
 Under Review
 
 4.  
-Rotti, L., Murabito, J.M., **Chen, J.**, Cao Y., Ragab, A.A., Liu, C., Wang, M., Doyle, M.F., Lunetta, K.L. (2025+)  
+Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  (2025)  
+*Association of Circulating Immune Cell Phenotypes and Peripheral Inflammatory Biomarkers with Depressive Symptoms in the Framingham Heart Study.*  
+_Psychoneuroendocrinology_  
+[DOI](https://doi.org/10.1016/j.psyneuen.2025.107716)
+
+5.  
+Rotti, L., Murabito, J.M., **Chen, J.**, Cao Y., Ragab, A.A., Liu, C., Wang, M., Doyle, M.F., Lunetta, K.L. (2025)  
 *Immune Cells and Inflammatory Proteins are Associated with Future DNA Methylation Biological Aging Measures in the Framingham Heart Study Offspring Cohort.*  
 _Geroscience_  
 [DOI](https://doi.org/10.1007/s11357-025-01883-4)
 
-5.  
+6.  
 Ragab, A.A., Doyle, M.F., **Chen, J.**, Lunetta, K.L., Murabito, J.M. (2025)  
 *Alcohol consumption and immune cell profiles: Insights from the Framingham Heart Study.*  
 _Alcohol: Clinical and Experimental Research_  
