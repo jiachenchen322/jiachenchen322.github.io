@@ -115,6 +115,7 @@ Joint Statistical Meetings (JSM), 2025
 
 **Leadership Roles**
 
+Member, International Chinese Statistical Association (ICSA) Webinar Sub-Committee Tech Support Team, 2025-Present    
 Emerging Women Leaders, Boston University School of Public Health, 2024  
 Student Ambassador for Incoming PhD Students, Department of Biostatistics, Boston University, 2024  
 Co-Chair, Biostatistics Student Association, Boston University, 2023–2024  
