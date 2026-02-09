@@ -92,7 +92,7 @@ Under Review
 Bernatz, S., Prudente, V., Pai, S.,..., **Chen, J.**,..., Aerts, J.H. (2025+)  
 *Thymic Health Consequences in Adults.*  
 _Nature_  
-Under Review
+Accepted
 
 4.  
 Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  (2025)  
