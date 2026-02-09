@@ -25,6 +25,10 @@ classes: wide
 
 
 <div class="page__content">
+<div class="year-header">2026</div>
+<ul class="talks-list">
+  <li><strong>Talk:</strong> Multi-Modal Integrative Learning of Multi-Omics and Longitudinal Phenomics for Health Outcome Prediction, <em>ENAR Spring Meeting</em>, Indianapolis.</li>
+</ul>
 
 <div class="year-header">2025</div>
 <ul class="talks-list">
