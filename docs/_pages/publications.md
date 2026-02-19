@@ -86,7 +86,7 @@ Under Review
 **Chen, J.**, Doyle, M.F., Iyer, S., Cao Y., Ragab, A.A., Murabito, J.M., Lunetta, K.L. (2025+)  
 *Circulating immune cell phenotypes are associated with inflammatory biomarkers in dementia-free participants: Framingham Heart Study Offspring cohort.*  
 _Scientific Reports_  
-Under Review
+Accepted
 
 3.  
 Bernatz, S., Prudente, V., Pai, S.,..., **Chen, J.**,..., Aerts, J.H. (2025+)  
