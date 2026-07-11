@@ -27,7 +27,13 @@ classes: wide
 <div class="page__content">
 <div class="year-header">2026</div>
 <ul class="talks-list">
-  <li><strong>Talk:</strong> Multi-Modal Integrative Learning of Multi-Omics and Longitudinal Phenomics for Health Outcome Prediction, <em>ENAR Spring Meeting</em>, Indianapolis.</li>
+  <li><strong>Talk:</strong> MGRFusionNet: A Graph-Recurrent Fusion Framework for Multi-Omics and Longitudinal Phenomics in Health Outcome Prediction, <em>Joint Statistical Meetings</em>, Boston, MA.</li>
+  <li><strong>Talk:</strong> Multi-Modal Integrative Learning of Multi-Omics and Longitudinal Phenomics for Health Outcome Prediction, <em>ENAR Spring Meeting</em>, Indianapolis, IN.</li>
+  <li><strong>Talk:</strong> Cross-Modal and Cross-Cohort Learning in Multi-Omics Integration: Toward Generalizable Aging Models, <em>Georgia State University Department of Population Health Sciences</em>, Atlanta, GA.</li>
+  <li><strong>Talk:</strong> Cross-Modal and Cross-Cohort Learning in Multi-Omics Integration: Toward Generalizable Aging Models, <em>University of Louisville Department of Bioinformatics and Biostatistics</em>, Louisville, KY.</li>
+  <li><strong>Talk:</strong> Cross-Modal and Cross-Cohort Learning in Multi-Omics Integration: Toward Generalizable Aging Models, <em>University of South Carolina Department of Epidemiology and Biostatistics</em>, Columbia, SC.</li>
+  <li><strong>Talk:</strong> Cross-Modal and Cross-Cohort Learning in Multi-Omics Integration: Toward Generalizable Aging Models, <em>University of Hawaii at Manoa Department of Public Health Sciences</em>, Honolulu, HI.</li>
+  <li><strong>Talk:</strong> Cross-Modal and Cross-Cohort Learning in Multi-Omics Integration: Toward Generalizable Aging Models, <em>Rutgers University Department of Biostatistics and Epidemiology</em>, New Brunswick, NJ.</li>
 </ul>
 
 <div class="year-header">2025</div>
