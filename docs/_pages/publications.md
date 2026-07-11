@@ -31,18 +31,18 @@ author_profile: true
 
 ## Statistical Methodology 
 1.  
-**Chen, J.**, Murabito, J.M., Lunetta, K.L.  
-*MGRFusionNet: A Graph-Recurrent Fusion Framework for Multi-Omics and Longitudinal Phenomics in Health Outcome Prediction.*  
+**Chen, J.**, Murabito, J.M., Lunetta, K.L. (2026+)   
+*MGRFusionNet: A Graph-Recurrent Fusion Framework for Multi-Omics and Longitudinal Phenomics in Health Outcome Prediction.*   
 Under Review
 
 2.  
-**Chen, J.**, Huang, D., Wang L., Lunetta, K.L., Murabito, J.M., Peloso G., Mukherjee D., Cheng H. (2025+)  
+**Chen, J.**, Huang, D., Wang L., Lunetta, K.L., Murabito, J.M., Peloso G., Mukherjee D., Cheng H. (2026+)  
 *Transfer Learning Under High-Dimensional Graph Convolutional Regression Model for Node Classification.*   
 _IEEE Transactions on Network Science and Engineering_  
 Under Review [arXiv](https://arxiv.org/abs/2405.16672)
 
 3.  
-Wang L.†, **Chen, J.**†, Lunetta, K.L., Huang, D., Cheng H., Mukherjee D. (2025+)  
+Wang L.†, **Chen, J.**†, Lunetta, K.L., Huang, D., Cheng H., Mukherjee D. (2026+)  
 *Transfer Learning Under High-Dimensional Network Convolutional Regression Model.*  
 _Biometrics_  
 Under Review [arXiv](https://arxiv.org/abs/2504.19979)
