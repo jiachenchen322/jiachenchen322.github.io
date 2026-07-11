@@ -107,7 +107,8 @@ The Journal of Aging Research & Lifestyle
 IEEE Transactions on Neural Networks and Learning Systems     
 Alzheimer's Research & Therapy     
 npj Cardiovascular Health     
- 
+npj Digital Medicine  
+BMC Medical Informatics and Decision Making  
 
 **Session Chair**
 
