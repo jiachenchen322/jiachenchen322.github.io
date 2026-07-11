@@ -1,4 +1,4 @@
----
+<img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/61a2f038-8878-4818-acb0-c9365d8d8705" /><img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/6d6d5551-e900-4930-9041-f82fef5be151" />---
 title: "Publications"
 permalink: /publications/
 layout: single
@@ -28,48 +28,39 @@ author_profile: true
 }
 </style>
 
-## In Preparation
-1.  
-**Chen, J.**, Iyer, S., Peloso G., Murabito, J.M., Lunetta, K.L.  
-*Proteomic Signature of Frailty Pace Reflects Biological Aging and Predicts Disease and Mortality.*  
-
-2.  
-**Chen, J.**, Murabito, J.M., Lunetta, K.L.  
-*Integrative Deep Learning for Multi-Omics and Longitudinal Phenomics: A Multi-Modal Graph-Recurrent Fusion Architecture.*  
-
-
-3.  
-Ragab, A.A., **Chen, J.**, Doyle, M.F., Murabito, J.M., Lunetta, K.L.  
-*Sleep Disorder and Immune Cell Phenotypes in the Framingham Heart Study.*  
-
 
 ## Statistical Methodology 
-1.  
-**Chen, J.**, Huang, D., Wang L., Lunetta, K.L., Murabito, J.M., Peloso G., Mukherjee D., Cheng H. (2025+)  
-*Transfer Learning Under High-Dimensional Graph Convolutional Regression Model for Node Classification.*   
-_IEEE Transactions on Neural Networks and Learning Systems_  
-Under Review [arXiv](https://arxiv.org/abs/2405.16672)
+1.
+**Chen, J.**, Murabito, J.M., Lunetta, K.L.  
+*MGRFusionNet: A Graph-Recurrent Fusion Framework for Multi-Omics and Longitudinal Phenomics in Health Outcome Prediction.*
+Under Review
 
 2.  
-Wang L.†, **Chen, J.**†, Lunetta, K.L., Huang, D., Cheng H., Mukherjee D. (2025+)  
-*Transfer Learning Under High-Dimensional Network Convolutional Regression Model.*  
-_Journal of the American Statistical Association_  
-Under Review [arXiv](https://arxiv.org/abs/2504.19979)
+**Chen, J.**, Huang, D., Wang L., Lunetta, K.L., Murabito, J.M., Peloso G., Mukherjee D., Cheng H. (2025+)  
+*Transfer Learning Under High-Dimensional Graph Convolutional Regression Model for Node Classification.*   
+_IEEE Transactions on Network Science and Engineering_  
+Under Review [arXiv](https://arxiv.org/abs/2405.16672)
 
 3.  
+Wang L.†, **Chen, J.**†, Lunetta, K.L., Huang, D., Cheng H., Mukherjee D. (2025+)  
+*Transfer Learning Under High-Dimensional Network Convolutional Regression Model.*  
+_Biometrics_  
+Under Review [arXiv](https://arxiv.org/abs/2504.19979)
+
+4.  
 **Chen, J.**, Murabito, J.M., Lunetta, K.L. (2025)  
 *ONDSA: a testing framework based on Gaussian graphical models for differential and similarity analysis of multiple omics networks.*  
 _Briefings in Bioinformatics_, 26(1), bbae610  
 [DOI](https://doi.org/10.1093/bib/bbae610)  
 **2023–2024 BUSPH Biostatistics Student Paper Award**
 
-4.  
+5.  
 **Chen, J.**†, Bie, R.†, Qin, Y., Li, Y., and Ma, S. (2022)  
 *Lq‐based robust analytics on ultrahigh and high dimensional data.*  
 _Statistics in Medicine_, 41(26), 5220--5241  
 [DOI](https://doi.org/10.1002/sim.9515)
 
-5.  
+6.  
 **Chen, J.**, Zhou, X., Li, F., & Spiegelman, D. (2022)  
 *swdpwr: A SAS macro and an R package for power calculations in stepped wedge cluster randomized trials.*  
 _Computer Methods and Programs in Biomedicine_, 213, 106522  
@@ -77,86 +68,91 @@ _Computer Methods and Programs in Biomedicine_, 213, 106522
 
 ## Applications in Cognitive Aging and Genetic Epidemiology
 1.  
-Adly, A., Bernatz, S., Bontempi, D., ..., **Chen, J.**,..., Aerts, J.H. (2025+)  
+**Chen, J.**, Iyer, S., Peloso G., Murabito, J.M., Lunetta, K.L. (2026+)  
+*A Proteomic Signature of Frailty Pace Captures Functional Aging and Predicts Age-Related Diseases and Mortality.*
+Under Review
+
+2.  
+Adly, A., Bernatz, S., Bontempi, D., ..., **Chen, J.**,..., Aerts, J.H. (2026+)  
 *Deep Learning-based Lung Health Score from Computed Tomography in Adults.*  
 _npj Digital Medicine_  
 Under Review
 
-2.  
-**Chen, J.**, Doyle, M.F., Iyer, S., Cao Y., Ragab, A.A., Murabito, J.M., Lunetta, K.L. (2025+)  
-*Circulating immune cell phenotypes are associated with inflammatory biomarkers in dementia-free participants: Framingham Heart Study Offspring cohort.*  
-_Scientific Reports_  
-Accepted
-
 3.  
-Bernatz, S., Prudente, V., Pai, S.,..., **Chen, J.**,..., Aerts, J.H. (2025+)  
+Bernatz, S., Prudente, V., Pai, S.,..., **Chen, J.**,..., Aerts, J.H. (2026)  
 *Thymic Health Consequences in Adults.*  
 _Nature_  
-Accepted
+[DOI](https://doi.org/10.1038/s41586-026-10242-y)
 
 4.  
+**Chen, J.**, Doyle, M.F., Iyer, S., Cao Y., Ragab, A.A., Murabito, J.M., Lunetta, K.L. (2026)  
+*Circulating immune cell phenotypes are associated with inflammatory biomarkers in dementia-free participants: Framingham Heart Study Offspring cohort.*  
+_Scientific Reports_  
+[DOI](https://doi.org/10.1038/s41598-026-41423-4)
+
+5.  
 Iyer, S., Cao Y., Liebegott R., **Chen, J.**, Ragab, A.A., Doyle, M.F., Lunetta, K.L., Murabito, J.M.  (2025)  
 *Association of Circulating Immune Cell Phenotypes and Peripheral Inflammatory Biomarkers with Depressive Symptoms in the Framingham Heart Study.*  
 _Psychoneuroendocrinology_  
 [DOI](https://doi.org/10.1016/j.psyneuen.2025.107716)
 
-5.  
+6.  
 Rotti, L., Murabito, J.M., **Chen, J.**, Cao Y., Ragab, A.A., Liu, C., Wang, M., Doyle, M.F., Lunetta, K.L. (2025)  
 *Immune Cells and Inflammatory Proteins are Associated with Future DNA Methylation Biological Aging Measures in the Framingham Heart Study Offspring Cohort.*  
 _Geroscience_  
 [DOI](https://doi.org/10.1007/s11357-025-01883-4)
 
-6.  
+7.  
 Ragab, A.A., Doyle, M.F., **Chen, J.**, Lunetta, K.L., Murabito, J.M. (2025)  
 *Alcohol consumption and immune cell profiles: Insights from the Framingham Heart Study.*  
 _Alcohol: Clinical and Experimental Research_  
 [DOI](https://doi.org/10.1111/acer.70122)
 
-7.  
+8.  
 Fang, Y., **Chen, J.**, Mez, J., Satizabal, C.L.,  Alosco, M.L.,  Qiu, W.Q.,  Doyle, M.F., Murabito, J.M., Lunetta, K.L. (2025)  
 *Modeling heterogeneity in cognitive trajectories in the Framingham Heart Study.*  
 _Frontiers in Aging Neuroscience_    
 [DOI](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2025.1471154/full)
 
-8.  
+9.  
 Cao Y., Salvati L.R., **Chen, J.**, Ragab, A.A., Mez, J., Satizabal, C.L., Alosco, M.L., Fang, Y., Qiu, W.Q., Lunetta, K.L., Murabito, J.M., Doyle, M.F. (2025)  
 *The Association of Circulating Immune Cells with Cognitive Function, Brain Imaging, and Incident all-cause and Alzheimer’s Dementia: The Framingham Offspring Study.*  
 _Journal of Gerontology: Biological Sciences_, glaf067  
 [DOI](https://doi.org/10.1093/gerona/glaf067)
 
-9.  
+10.  
 **Chen, J.**†, Ragab, A.A.†, Doyle, M.F., Alosco, M.L., Fang, Y., Mez, J., Satizabal, C.L., Qiu, W.Q., Murabito, J.M., Lunetta, K.L. (2024)  
 *Inflammatory protein associations with brain MRI measures: Framingham Offspring Cohort.*  
 _Alzheimer's & Dementia: The Journal of the Alzheimer's Association_, 1-14  
 [DOI](https://doi.org/10.1002/alz.13896)
 
-10.  
+11.  
 Kang, M., Li, C., Mahajan, A., Spat-Lemus, J., Durape, S., **Chen, J.**, et al. (2024)  
 *Subjective Cognitive Decline-Plus: Longitudinal assessment and risk for cognitive impairment.*  
 _JAMA Psychiatry_  
 [DOI](https://doi.org/10.1001/jamapsychiatry.2024.1678)  
 **2024 Publication of the Year Award by the Alzheimer's Association ISTAART and the SCD PIA**  
 
-11.  
+12.  
 Ragab, A. A., Doyle, M. F., **Chen, J.**, Fang, Y., Lunetta, K. L., Murabito, J. M. (2024)  
 *Immune cell phenotypes and mortality in the Framingham Heart Study.*  
 _Immunity & Ageing_, 21(1), 37  
 [DOI](https://doi.org/10.1186/s12979-024-00384-y)   
 **Editor's Pick**  
 
-12.  
+13.  
 **Chen, J.**, Doyle, M.F., Fang, Y., Mez, J., Crane, P.K., Scollard, P., Satizabal, C.L., Alosco, M.L., Qiu, W.Q., Murabito, J.M., Lunetta, K.L. (2023)  
 *Peripheral inflammatory biomarkers are associated with cognitive function and dementia: Framingham Heart Study Offspring cohort.*  
 _Aging Cell_, 22(10), e13955  
 [DOI](https://doi.org/10.1111/acel.13955)
 
-13.  
+14.  
 Fang, Y., Doyle, M.F., **Chen, J.**, Mez, J., Satizabal, C.L., Alosco, M.L., Qiu, W.Q., Lunetta, K.L. and Murabito, J.M. (2023)  
 *Circulating immune cell phenotypes are associated with age, sex, CMV, and smoking status in the Framingham Heart Study offspring participants.*  
 _Aging (Albany NY)_, 15(10), 3939  
 [DOI](https://doi.org/10.18632/aging.204874)
 
-14.  
+15.  
 Fang, Y., Doyle, M.F., **Chen J.**, Alosco, M.L., Mez, J., Satizabal, C.L., Qiu, W., Murabito, J.M., Lunetta, K.L. (2022)  
 *Association between inflammatory biomarkers and cognitive aging.*  
 _PLOS One_, 17(9), e0274350  
