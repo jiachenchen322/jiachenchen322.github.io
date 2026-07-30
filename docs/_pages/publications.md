@@ -32,7 +32,8 @@ author_profile: true
 ## Statistical Methodology 
 1.  
 **Chen, J.**, Murabito, J.M., Lunetta, K.L. (2026+)   
-*MGRFusionNet: A Graph-Recurrent Fusion Framework for Multi-Omics and Longitudinal Phenomics in Health Outcome Prediction.*   
+*MGRFusionNet: A Graph-Recurrent Framework for Integrating Molecular Omics and Longitudinal Phenomics in Health Outcome Prediction.*   
+_Bioinformatics_  
 Under Review
 
 2.  
@@ -68,8 +69,9 @@ _Computer Methods and Programs in Biomedicine_, 213, 106522
 
 ## Applications in Cognitive Aging and Genetic Epidemiology
 1.  
-**Chen, J.**, Iyer, S., Peloso G., Murabito, J.M., Lunetta, K.L. (2026+)  
+**Chen, J.**, Murabito, J.M., Peloso G., Iyer, S., Doyle, M.F., Lunetta, K.L. (2026+)  
 *A Proteomic Signature of Frailty Pace Captures Functional Aging and Predicts Age-Related Diseases and Mortality.*  
+_Nature Aging_  
 Under Review
 
 2.  
