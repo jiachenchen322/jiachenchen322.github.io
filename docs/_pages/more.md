@@ -25,7 +25,7 @@ author_profile: true
 ## Research Funding
 
 - [NIH/NIA F99/K00] — Transition to Aging Research for Predoctoral Students  
-  *Role: PI | Awarded in September 2025*
+  *Role: PI | Dec 2025 - Present*
 
 - [Center for Health Data Science (CHDS) Pilot Award](https://sites.bu.edu/healthdatascience/), $5,000  
   *Role: PI | Feb 2025 – Jan 2026*
@@ -109,6 +109,7 @@ Alzheimer's Research & Therapy
 npj Cardiovascular Health     
 npj Digital Medicine  
 BMC Medical Informatics and Decision Making  
+Journal of the American Heart Association  
 
 **Session Chair**
 
