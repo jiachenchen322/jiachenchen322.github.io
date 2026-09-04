@@ -16,9 +16,10 @@ Our objective is to identify biological pathways linking chronic inflammation, i
 ## Selected Publications
 
 **1. Circulating Immune Cell Phenotypes and Inflammation**  
-**Chen, J.**, Doyle, M.F., Iyer, S., Cao Y., Ragab, A.A., Murabito, J.M., Lunetta, K.L. (Under Review)  
+**Chen, J.**, Doyle, M.F., Iyer, S., Cao Y., Ragab, A.A., Murabito, J.M., Lunetta, K.L. (2026)  
 *Circulating immune cell phenotypes are associated with inflammatory biomarkers in dementia-free participants: Framingham Heart Study Offspring cohort*.  
-*The Journal of Inflammation*
+*Scientific Reports*  
+[DOI](https://doi.org/10.1038/s41598-026-41423-4)
 
 **2. Immune Cells and Cognitive Outcomes**  
 Cao, Y., Lunetta, K.L., **Chen, J.**, Ragab, A.A., Mez, J., Satizabal, C.L., Alosco, M.L., Fang, Y., Qiu, W.Q., Murabito, J.M., Doyle, M.F. (2025)  
