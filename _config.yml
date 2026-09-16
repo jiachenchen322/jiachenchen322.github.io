@@ -24,7 +24,7 @@ title                    : "From Omics to Insight: Aging & Statistics"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jiachen Chen"
-description              : "PhD in Biostatistics from BUSPH."
+description              : "Assistant Professor in Bioinformatics & Biostatistics at UofL."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -118,13 +118,13 @@ analytics:
 author:
   name             : "Jiachen Chen"
   avatar           :  "docs/assets/images/IMG_2979.jpg"
-  bio              : "PhD in Biostatistics from BUSPH."
-  location         : "Boston"
+  bio              : "Assistant Professor in Bioinformatics & Biostatistics at UofL."
+  location         : "Louisville, Kentucky"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chenjc@bu.edu"
+      url: "mailto:jiachen.chen@louisville.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jiachenchen322"
