@@ -71,7 +71,7 @@ _Computer Methods and Programs in Biomedicine_, 213, 106522
 1.  
 **Chen, J.**, Murabito, J.M., Peloso G., Iyer, S., Doyle, M.F., Lunetta, K.L. (2026+)  
 *A Proteomic Signature of Frailty Pace Captures Functional Aging and Predicts Age-Related Diseases and Mortality.*  
-_Nature Aging_  
+_npj Aging_  
 Under Review
 
 2.  
