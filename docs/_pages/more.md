@@ -68,49 +68,56 @@ _Responsibilities: Held office hours, graded homework and exams, and led occasio
 
 **Reviewer for Journals and Conferences**
 
-American Society of Human Genetics (ASHG) Annual Meeting  
-Gerontological Society of America (GSA) Annual Scientific Meeting  
-Cardiovascular Diabetology  
-Brain, Behavior, and Immunity - Integrative  
-Computer Methods and Programs in Biomedicine Update  
-European Journal of Integrative Medicine  
-Experimental Gerontology  
-International Journal of Cancer  
-Discover Applied Sciences  
-Clinical Epidemiology and Global Health  
-BMC Immunology  
-Journal of Gerontology: Medical Sciences  
-Economic Analysis and Policy  
+***Journals***
+
+Nature Medicine  
+eBioMedicine  
+npj Digital Medicine  
+Communications Medicine  
 Briefings in Bioinformatics  
+IEEE Transactions on Neural Networks and Learning Systems  
+Alzheimer's Research & Therapy  
+npj Aging  
 npj Dementia  
+Journal of Gerontology: Medical Sciences  
+Journal of Gerontology: Psychological Sciences  
+The Gerontologist  
+Experimental Gerontology  
+Aging Clinical and Experimental Research  
+BMC Geriatrics  
+Journal of Frailty & Aging  
+The Journal of Aging Research & Lifestyle  
+Cardiovascular Diabetology  
+Circulation: Genomic and Precision Medicine  
+Journal of the American Heart Association  
+npj Cardiovascular Health  
+Immunity & Ageing  
+Clinical Epigenetics  
+Brain, Behavior, and Immunity - Integrative  
+BMC Immunology  
+Lipids in Health and Disease  
+International Journal of Cancer  
+Journal of Molecular Neuroscience  
+Journal of Healthcare Informatics Research  
+BMC Medical Informatics and Decision Making  
+Computer Methods and Programs in Biomedicine Update  
+Medicine in Omics  
 Scientific Reports  
 BMC Public Health  
 Archives of Public Health  
-Lipids in Health and Disease  
-Journal of Molecular Neuroscience  
+Clinical Epidemiology and Global Health  
+BMC Psychology  
+European Journal of Medical Research  
 Journal of Cardiothoracic Surgery  
-Aging Clinical and Experimental Research  
-Nature Medicine  
-Journal of Healthcare Informatics Research  
-BMC Geriatrics  
-Medicine in Omics  
-Journal of Gerontology: Psychological Sciences  
-Journal of Frailty & Aging  
-The Gerontologist  
-BMC Psychology    
-Immunity & Ageing    
-European Journal of Medical Research     
-Clinical Epigenetics     
-npj Aging       
-Circulation: Genomic and Precision Medicine     
-The Journal of Aging Research & Lifestyle      
-IEEE Transactions on Neural Networks and Learning Systems     
-Alzheimer's Research & Therapy     
-npj Cardiovascular Health     
-npj Digital Medicine  
-BMC Medical Informatics and Decision Making  
-Journal of the American Heart Association  
-eBioMedicine   
+European Journal of Integrative Medicine  
+Discover Applied Sciences  
+Economic Analysis and Policy  
+
+***Conferences***
+
+Gerontological Society of America (GSA) Annual Scientific Meeting  
+American Society of Human Genetics (ASHG) Annual Meeting   
+ICLR 2026 Workshop on AI with Recursive Self-Improvement   
 
 **Session Chair**
 
