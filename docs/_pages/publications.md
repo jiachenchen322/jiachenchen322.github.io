@@ -33,7 +33,7 @@ author_profile: true
 1.  
 **Chen, J.**, Murabito, J.M., Lunetta, K.L. (2026+)   
 *MGRFusionNet: A Graph-Recurrent Framework for Integrating Molecular Omics and Longitudinal Phenomics in Health Outcome Prediction.*   
-_Bioinformatics_  
+_Briefings in Bioinformatics_  
 Under Review
 
 2.  
