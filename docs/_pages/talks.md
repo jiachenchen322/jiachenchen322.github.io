@@ -27,6 +27,8 @@ classes: wide
 <div class="page__content">
 <div class="year-header">2026</div>
 <ul class="talks-list">
+  <li><strong>Talk:</strong> Accelerated Cardiometabolic Disease Accumulation and Poorer Sustained Attention in the All of Us Research Program, <em>Gerontological Society of America (GSA) 2026 Annual Scientific Meeting</em>, National Harbor, MD.</li>
+  <li><strong>Talk:</strong> Beyond Counting Years: Understanding Aging with AI, <em>Fall 2026 DBB Seminar Series</em>, Department of Bioinformatics and Biostatistics, University of Louisville, Louisville, KY.</li>
   <li><strong>Talk:</strong> MGRFusionNet: A Graph-Recurrent Fusion Framework for Multi-Omics and Longitudinal Phenomics in Health Outcome Prediction, <em>Joint Statistical Meetings</em>, Boston, MA.</li>
   <li><strong>Talk:</strong> Multi-Modal Integrative Learning of Multi-Omics and Longitudinal Phenomics for Health Outcome Prediction, <em>ENAR Spring Meeting</em>, Indianapolis, IN.</li>
   <li><strong>Talk:</strong> Cross-Modal and Cross-Cohort Learning in Multi-Omics Integration: Toward Generalizable Aging Models, <em>Georgia State University Department of Population Health Sciences</em>, Atlanta, GA.</li>
