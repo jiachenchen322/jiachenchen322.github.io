@@ -110,10 +110,12 @@ npj Cardiovascular Health
 npj Digital Medicine  
 BMC Medical Informatics and Decision Making  
 Journal of the American Heart Association  
+eBioMedicine   
 
 **Session Chair**
 
-Joint Statistical Meetings (JSM), 2025
+Joint Statistical Meetings (JSM), 2025  
+ENAR, 2027  
 
 **Leadership Roles**
 
