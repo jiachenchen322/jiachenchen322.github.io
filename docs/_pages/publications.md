@@ -76,8 +76,8 @@ Under Review
 
 2.  
 Adly, A., Bernatz, S., Bontempi, D., ..., **Chen, J.**,..., Aerts, J.H. (2026+)  
-*Deep Learning-based Lung Health Score from Computed Tomography in Adults.*  
-_npj Digital Medicine_  
+*AI–based Radiographic Lung Score Associates with Clinical Outcomes in Adults: a model development and validation study.*  
+_Lancet Digital Health_  
 Under Review
 
 3.  
